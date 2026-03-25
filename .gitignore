@@ -1,0 +1,26 @@
+# .gitignore
+
+# Environment
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Temp files
+temp.pdf
+temp.docx
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
